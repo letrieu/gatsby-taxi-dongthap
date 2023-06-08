@@ -1,19 +1,12 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Về chúng tôi
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Với địa bàn hoạt động rộng, Taxi Đồng Tháp Giá Rẻ có hệ thống đầy đủ xe đời mới 4 chỗ, 7 chỗ, 16 chỗ luôn sẵn sàn phục vụ quý khách khắp các khu vực nội ngoại thành tỉnh Đồng Tháp.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Bạn muốn gọi xe ở khu vực nào chỉ cần liên hệ ngay đến số **0773 749 749** để được phục vụ một cách tốt nhất nhé. Hỗ trợ 24/24.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Với Taxi Đồng Tháp Giá Rẻ, chúng tôi sẽ tư vấn cho bạn dịch vụ đặt taxi tối ưu nhất. Bạn sẽ được hỗ trợ nhiệt tình chu đáo, cung cấp mức giá tốt đáp ứng mọi nhu cầu sử dụng, điểm đi - điểm đến. ĐẶT XE NGAY GIẢM ĐẾN 30 %
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+GIÁ RẺ NHẤT KHU VỰC - XE 4 CHỖ, 7 CHỖ ĐỜI MỚI - ĐẾN NGAY SAU 5 PHÚT GỌI
